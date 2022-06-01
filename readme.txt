@@ -1,5 +1,5 @@
 hi
-in this notebook i have compared three linear regression models
+In this notebook i have compared three linear regression models
 1)linear regression
 2)ridge
 3)lasso
