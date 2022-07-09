@@ -4,4 +4,4 @@
 # 3)lasso
 #### The criteria for the comparision is /b least squared error 
 ##### i have also tried to explain the correlation between dependent and independent variable with the use of certain graphs using seaborn and matplotlib.pyplot libraries.
-### hope you find it hel[ful
+###### hope you find it helful
